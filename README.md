@@ -6,7 +6,7 @@ Durante o evento a gente mostra esse provótipo, convida as pessoas a interagir 
 
 Estrutura do experimento:
 
-Mostrar as versões da constituição do artigo 228 - original e PEC 171 na parede
+* Mostrar as versões da constituição do artigo 228 - original e PEC 171 na parede
 Explicar a estrutura de controle de versão do GIT
 Pedir propostas de mudanças no texto via pull requests na parede
 Abrir para discussões via issues como uma panfletagem (não é permitido conversar)
