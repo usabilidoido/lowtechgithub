@@ -20,5 +20,6 @@ Estrutura do experimento:
 * Discussão sobre articulação política
 
 Veja as fotos para entender melhor.
+https://www.flickr.com/photos/usabilidoido/
 
 Criado por Frederick van Amstel, Henrique Parra Parra, Leonardo Aragão e Christian Miranda durante o FISL 2014 em Porto Alegre.
