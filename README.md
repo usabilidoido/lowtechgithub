@@ -8,8 +8,9 @@ Estrutura do experimento:
 
 * Mostrar as versões da constituição do artigo 228 - original e PEC 171 na parede
 * Explicar a estrutura de controle de versão do GIT
-* Pedir propostas de mudanças no texto via pull requests na parede
-* Abrir para discussões via issues como uma panfletagem (não é permitido conversar)
+* Fixar na parede o texto a ser modificado
+* Abrir para discussões via issues com postits amarelo (não é permitido conversar). As respostas das issues são coladas logo abaixo, como comentários
+* Pedir propostas de mudanças no texto principal via pull requests na parede. Pull requests são post-its laranja
 * Eleger até 4 deputados - participantes podem se candidatar e outros votam em postit
 * Deputados aceitam ou rejeitam os pull requests
 * O texto final é publicado em diário oficial
@@ -17,5 +18,7 @@ Estrutura do experimento:
 * Reflexão sobre o sistema GIT para participação social
 * Propostas de mudanças no sistema
 * Discussão sobre articulação política
+
+Veja as fotos para entender melhor.
 
 Criado por Frederick van Amstel, Henrique Parra Parra, Leonardo Aragão e Christian Miranda durante o FISL 2014 em Porto Alegre.
